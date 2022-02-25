@@ -4,4 +4,6 @@ Simon Martinelli is the owner of [72 Services LLC](https://72.services) and a pa
 
 An active member of the Java community process, he has received the Vaadin Community Award and made key contributions to JSR-352 Batch Applications, JSR-354 Money, and Currency API. 
 
-In addition to coaching and teaching clients to optimize IT functions within business environments, he has been an Adjunct Professor at [Berne University of Applied Science](https://www.bfh.ch/ti/en/) in Switzerland and has a YouTube channel: https://www.youtube.com/user/simaswiss
+In addition to coaching and teaching clients to optimize IT functions within business environments, he has been an Adjunct Professor at [Berne University of Applied Science](https://www.bfh.ch/ti/en/) in Switzerland.
+
+Check out his YouTube channel: https://www.youtube.com/user/simaswiss
