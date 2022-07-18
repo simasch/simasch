@@ -6,4 +6,4 @@ As an active member of the Java community, I've received the [Vaadin Community A
 
 In addition to coaching and teaching clients to optimize IT functions within business environments, I've been an Adjunct Professor at [Berne University of Applied Science](https://www.bfh.ch/ti/en/) in Switzerland. I'm teaching architecture and design of distributed systems (aka Microservices), Spring Boot and persistence.
 
-Don't miss my YouTube channel: https://www.youtube.com/user/simaswiss
+Check out https://martinelli.ch for more!
