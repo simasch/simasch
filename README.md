@@ -1,9 +1,8 @@
 ### About me
 
-I'm the founder of [72 Services LLC](https://72.services) and a passionate Java, performance optimization and application integration expert with more than 27 years of experience creating efficient programming solutions as a developer, architect, and technical lead.
+I'm the owner of 72 Services LLC and have been working as a software architect, developer, consultant, and trainer for 27 years, especially in the Java Enterprise environment.
 
-As an active member of the Java community, I've received the [Vaadin Community Award](https://vaadin.com/community-award) and made key contributions to JSR-352 Batch Applications, JSR-354 Money, and Currency API. 
+My current interest is increasing the efficiency of full-stack development with Java. Due to my commitment to the Vaadin/Hilla environment, I received the Vaadin Community Award. I regularly shares my knowledge in articles and speaks at international conferences and write my own blog at https://martinelli.ch. 
 
-In addition to coaching and teaching clients to optimize IT functions within business environments, I've been an Adjunct Professor at [Berne University of Applied Science](https://www.bfh.ch/ti/en/) in Switzerland. I'm teaching architecture and design of distributed systems (aka Microservices), Spring Boot and persistence.
-
- I also enjoy speaking at conferences and meetups, writing articles, and having my own blog at https://martinelli.ch
+Besides my  work, I've been a lecturer at the Bern University of Applied Sciences for modern architecture and integrating distributed systems and persistence technologies with Java since 2007.
+And I'm an expert group member of JSR-352 Java Batch and JSR-354 Money and Currency.
