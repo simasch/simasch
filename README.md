@@ -1,8 +1,9 @@
 ### About me
 
-I'm the owner of 72 Services LLC and have been working as a software architect, developer, consultant, and trainer for 27 years, especially in the Java Enterprise environment.
+I'm a Java Champion and an Oracle ACE Associate and I received the Vaadin Community Award in 2021 and 2022 due to my commitment to the Java and Vaadin communities.
 
-My current interest is increasing the efficiency of full-stack development with Java. Due to my commitment to the Vaadin/Hilla environment, I received the Vaadin Community Award. I regularly share my knowledge in articles, speak at international conferences and write my own blog: https://martinelli.ch. 
+I regularly shares my knowledge in articles, speak at international conferences, and write my blog: https://martinelli.ch. My current interest is increasing the efficiency of full-stack development with Java. 
 
-Besides my work, I've been a lecturer at the Bern University of Applied Sciences for modern architecture and integrating distributed systems and persistence technologies with Java since 2007.
-And I'm an expert group member of JSR-352 Java Batch and JSR-354 Money and Currency.
+I'm the owner of 72 Services LLC and worked as a software architect, developer, consultant, and trainer for three decades, especially in the Java Enterprise environment. 
+
+Besides my work, I've been a lecturer at the Bern University of Applied Sciences BFH and the University of Applied Science Northern Switzerland FHNW for modern architecture and integrating distributed systems and persistence technologies with Java and DevOps since 2007. I also served as an expert group member of JSR-352 Java Batch and JSR-354 Money and Currency.
