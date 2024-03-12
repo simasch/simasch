@@ -1,6 +1,6 @@
 ### About me
 
-I'm a [Java Champion](https://javachampions.org) and an [Oracle ACE Associate](https://ace.oracle.com/pls/apex/ace_program/r/oracle-aces/home) and I received the [Vaadin Community Award](https://vaadin.com/community-award) in 2021 and 2022 due to my commitment to the Java and Vaadin communities.
+I'm a [Java Champion](https://javachampions.org), [Vaadin Champion](https://vaadin.com/champions) and an [Oracle ACE Associate](https://ace.oracle.com/pls/apex/ace_program/r/oracle-aces/home) and I received the [Vaadin Community Award](https://vaadin.com/community-award) in 2021 and 2022 due to my commitment to the Java and Vaadin communities.
 
 I regularly shares my knowledge in articles, speak at international conferences, and write my blog: https://martinelli.ch. My current interest is increasing the efficiency of full-stack development with Java. 
 
