@@ -4,6 +4,6 @@ I'm a [Java Champion](https://javachampions.org), [Vaadin Champion](https://vaad
 
 I regularly shares my knowledge in articles, speak at international conferences, and write my blog: https://martinelli.ch. My current interest is increasing the efficiency of full-stack development with Java. 
 
-I'm the owner of 72 Services LLC and worked as a software architect, developer, consultant, and trainer for three decades, especially in the Java Enterprise environment. 
+I'm the owner of Martinelli LLC and worked as a software architect, developer, consultant, and trainer for three decades, especially in the Java Enterprise environment. 
 
 Besides my work, I've been a lecturer at the Bern University of Applied Sciences BFH and the University of Applied Science Northern Switzerland FHNW for modern architecture and integrating distributed systems and persistence technologies with Java and DevOps since 2007. I also served as an expert group member of JSR-352 Java Batch and JSR-354 Money and Currency.
